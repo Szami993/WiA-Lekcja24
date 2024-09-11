@@ -1,0 +1,89 @@
+body {
+
+    font-family: Arial, sans-serif;
+}
+
+th, td {
+
+    border: 1px solid black;
+    padding:4px;
+
+}
+
+table {
+
+    margin-bottom: 50px;
+}
+
+.n1 {
+
+    width: 100px;
+}
+
+.i2 {
+
+    width: 400px; 
+}
+
+.g3 {
+
+    width: 200px; 
+}
+
+#tabela1 {
+
+    border-collapse: collapse;
+}
+
+#tabela1 th {
+
+    color: white;
+    background-color: darkgreen;
+    padding: 8px;
+}
+
+#tabela1 tr {
+
+    height: 60px;
+}
+
+#tabela1 td {
+
+    padding: 5px;
+}
+
+#gora {
+
+    text-align: left;
+    vertical-align: top;
+}
+
+#srodek {
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+#prawo {
+
+    text-align: right;
+    vertical-align: bottom;
+}
+
+#tabela2 th {
+
+    color: white;
+    background-color: darkgreen;
+}
+
+#tabela3 {
+
+    border-collapse: collapse;
+}
+
+#tabela3 th {
+
+    width: 250px;
+    background-color: orange;
+    color: blue;
+}
